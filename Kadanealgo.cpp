@@ -1,4 +1,4 @@
-// Kadane algo helps us to solve questions like maximum/minimum subarraysum in an array
+// Kadane algo helps us to solve questions like maximum/minimum subarraysum (subarray will be in Contiguous) in an array
 #include<bits/stdc++.h>
 using namespace std;
 // defining a function to return maximum subarray sum
