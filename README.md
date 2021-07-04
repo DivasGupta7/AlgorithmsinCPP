@@ -1,1 +1,1 @@
-# AlgorithmsinCPP
+# Algorithms_in_CPP
